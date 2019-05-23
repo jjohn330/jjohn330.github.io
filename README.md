@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# **JUSTIN JOHNSON**
 
-You can use the [editor on GitHub](https://github.com/jjohn330/jjohn330.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Email: jjohn330@vols.utk.edu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Download Resume as a [PDF]()
 
-### Markdown
+## About me
+Mathematics and computer science student interested in database developing, statistical analysis, and computer science theory. I enjoy using querying, scripting and general purpose programming languages to meaningfully work with data. Aside from this, I like kayak, play chess, work with diesel and automotive vehicles, and learn new things!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# *Educational Background*
+### *University of Tennessee,Knoxville*
+**August 2015-May 2018**   
+Mathematics and Statistics  
+Minor in Business Administration
 
-```markdown
-Syntax highlighted code block
+Cumulative GPA: 3.31
 
-# Header 1
-## Header 2
-### Header 3
+### *Motlow State Community College, ASCS*
+**Jan 2019-May 2019**   
+Computer Science
 
-- Bulleted
-- List
+Cumulative GPA: 4.0
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# *Work Experience*
+## **Freelance Database Developer**
+### *Motlow- Mathematics Department*
+* Designed scripted migration tools in python to handle database changes and updates
+* Transcribed ER diagrams into database schemas for administration
 
-[Link](url) and ![Image](src)
-```
+### *Professional Certifications*
+MTA: Database Fundamentals
+&nbsp   
+MCSA: SQL 2016 Database Development
+&nbsp   
+MCSA: SQL 2016 Business Intelligence Development
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jjohn330/jjohn330.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
