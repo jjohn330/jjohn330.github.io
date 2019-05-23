@@ -1,6 +1,6 @@
 # **JUSTIN JOHNSON**
 
-### Email: jjohn330@vols.utk.edu
+Email: [jjohn330@vols.utk.edu](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrtHTrtzXTQKQJBRXNmmrRlsfrCjNMhbJLHkntKknZGqTwVPlJWslNVjCtPJKnGXsJgNB)
 
 Download Resume as a [PDF]()
 
