@@ -29,9 +29,7 @@ Cumulative GPA: 4.0
 * Transcribed ER diagrams into database schemas for administration
 
 ### *Professional Certifications*
-MTA: Database Fundamentals
-&nbsp   
+MTA: Database Fundamentals  
 MCSA: SQL 2016 Database Development
-&nbsp   
 MCSA: SQL 2016 Business Intelligence Development
 
