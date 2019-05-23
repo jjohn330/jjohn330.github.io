@@ -5,7 +5,7 @@
 Download Resume as a [PDF]()
 
 ## About me
-Mathematics and computer science student interested in database developing, statistical analysis, and computer science theory. I enjoy using querying, scripting and general purpose programming languages to meaningfully work with data. Aside from this, I like kayak, play chess, work with diesel and automotive vehicles, and learn new things!
+Mathematics and computer science student interested in database developing, statistical analysis, and computer science theory. I enjoy using querying, scripting and general purpose programming languages to meaningfully work with data. Aside from this, I like to kayak, play chess, work with diesel and automotive vehicles, and learn new things!
 
 # *Educational Background*
 ### *University of Tennessee,Knoxville*
@@ -31,5 +31,6 @@ Cumulative GPA: 4.0
 ### *Professional Certifications*
 MTA: Database Fundamentals  
 MCSA: SQL 2016 Database Development
+&nbsp 
 MCSA: SQL 2016 Business Intelligence Development
 
